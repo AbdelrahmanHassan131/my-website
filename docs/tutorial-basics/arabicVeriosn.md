@@ -15,7 +15,7 @@ sidebar_position: 6
 ## ما التالي؟
 
 - اقرأ [التوثيق الرسمي](https://docusaurus.io/)
-- عدّل إعدادات الموقع باستخدام [`docusaurus.config.js`](https://docusaurus.io/docs/api/docusaurus-config)
+- عدّل\* إعدادات الموقع باستخدام [`docusaurus.config.js`](https://docusaurus.io/docs/api/docusaurus-config)
 - أضف عناصر إلى شريط \* التنقل والتذييل باستخدام [`themeConfig`](https://docusaurus.io/docs/api/themes/configuration)
 - أضف تصميمًا وتخطيطًا مخصصًا من خلال [التصميم والتخطيط](https://docusaurus.io/docs/styling-layout)
 - أضف [شريط بحث](https://docusaurus.io/docs/search)
